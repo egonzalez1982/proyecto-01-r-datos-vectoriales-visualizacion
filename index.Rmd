@@ -1,6 +1,6 @@
 ---
 title: "PF-0953 Programación geoespacial en R<br>Proyecto 01: R - Visualización de datos vectoriales"
-author: "Manuel Vargas"
+author: "Esteban González Ramírez"
 date: "2020-10-07"
 output:
   html_document:
